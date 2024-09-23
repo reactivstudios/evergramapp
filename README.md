@@ -1,6 +1,6 @@
 # Evergram - scroll through all your Telegram channels in one timeline!
 
-Evergram is an android app that shows you a timeline of all messages from your channels on Telegram, so you don't have to go into each channel one by one and view the latest messages.
+Evergram is an android app that shows you a timeline of all messages from your subscribed/joined channels on Telegram, so you don't have to go into each channel one by one and view the latest messages.
 
 **Evergram app is not affiliated with Telegram in any way. You must have a Telegram account to use the app.**
 
