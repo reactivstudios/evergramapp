@@ -13,6 +13,11 @@ You can also join the Telegram group to discuss, report bugs and give feedback: 
 
 Evergram uses Telegram's open-source Tdlib library. It is currently in beta testing and has a long road map of features to implement. There is no guarantee that any requests or ideas will be implemented.
 
+## Screenshots
+![Screenshot](https://imgur.com/PKKZd9O)
+
+## Privacy & terms of use
+
 [Evergram privacy policy](https://github.com/reactivstudios/evergramapp/blob/main/privacypolicy.html)
 
 [Evergram terms of Use](https://github.com/reactivstudios/evergramapp/blob/main/termsofuse.html)
