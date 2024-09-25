@@ -5,7 +5,10 @@ Evergram is an android app that shows you a timeline of all messages from your s
 **Evergram app is not affiliated with Telegram in any way. You must have a Telegram account to use the app.**
 
 ## Preview release:
-https://play.google.com/apps/internaltest/4701366197619251098
+
+1. Join the Google group: evergram-app@googlegroups.com
+
+2. Download: https://play.google.com/apps/internaltest/4701366197619251098
 
 Use the [Issues](https://github.com/reactivstudios/evergramapp/issues) tab to report bugs, request features and discuss ideas.
 
