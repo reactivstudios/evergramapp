@@ -6,7 +6,7 @@ Evergram is an android app that shows you a timeline of all messages from your s
 
 ## Preview release:
 
-1. Join the Google group: evergram-app@googlegroups.com
+1. Join the [Google groups](evergram-app@googlegroups.com) or the [Telegram group](https://t.me/evergramapp)
 
 2. Download: https://play.google.com/apps/internaltest/4701366197619251098
 
