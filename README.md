@@ -14,7 +14,23 @@ Use the [Issues](https://github.com/reactivstudios/evergramapp/issues) tab to re
 
 You can also join the Telegram group to discuss, report bugs and give feedback: https://t.me/evergramapp. 
 
-Evergram uses Telegram's open-source Tdlib library. It is currently in beta testing and has a long road map of features to implement. There is no guarantee that any requests or ideas will be implemented.
+Evergram uses Telegram's open-source Tdlib library. It is currently in beta testing and has a road map of features.
+
+### Features implemented so far (v0.7-beta):
+* Show messages from all channels
+* Photo, video, gif and audio messages
+* Show existing reactions to messages
+* Save or share media from a message
+* View original message in Telegram
+* Save message to user's Saved Messages chat
+
+### What's coming:
+* Open a single channel to view all messages
+* Open user's Saved Messages chat
+* User folders and archived channels
+* Notifications
+* Add reactions to messages
+* ... (based on feedback)
 
 ## Screenshots
 ![Screenshot1](https://github.com/reactivstudios/evergramapp/blob/main/screenshots/1.png)
