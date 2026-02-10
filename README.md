@@ -16,7 +16,7 @@ You can also join the Telegram group to discuss, report bugs and give feedback: 
 
 Evergram uses Telegram's open-source Tdlib library. It is currently in beta testing and has a road map of features.
 
-### Features implemented so far (v0.7.3-beta):
+### Features implemented so far:
 * Show messages from all channels
 * Open individual channels to view all messages
 * Photo, video, gif and audio messages
@@ -24,9 +24,11 @@ Evergram uses Telegram's open-source Tdlib library. It is currently in beta test
 * Save or share media from a message
 * View original message in Telegram
 * Save message to user's Saved Messages chat
+* Open user's Saved Messages chat
+* Set download limits for wifi / cellular connections
+* Clear storage cache
 
 ### What's coming:
-* Open user's Saved Messages chat
 * User folders and archived channels
 * Notifications
 * Add reactions to messages
